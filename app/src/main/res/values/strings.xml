@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PicCut</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="imageview_fromcamera">启动照相机来获取图片</string>
+    <string name="imageview_fromgallery">启动图库来获取图片</string>
+    <string name="imageview_fromfolder">启动文件夹来获取图片</string>
+    <string name="title_activity_camera">CameraActivity</string>
+
+</resources>
